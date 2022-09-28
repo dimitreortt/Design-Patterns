@@ -1,0 +1,1 @@
+Project created to study Design Pattern implementations.
