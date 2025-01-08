@@ -1,2 +1,5 @@
 // import './Sales/index'
-import './ObserverPattern/index'
+// import './ObserverPattern/index'
+// import './DecoratorPattern/index'
+// import './FactoryPattern/index'
+import './CommandPattern/index'
