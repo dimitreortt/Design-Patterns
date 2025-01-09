@@ -2,4 +2,6 @@
 // import './ObserverPattern/index'
 // import './DecoratorPattern/index'
 // import './FactoryPattern/index'
-import './CommandPattern/index'
+// import './CommandPattern/index'
+// import './AdapterPattern/index'
+import './FacadePattern/index'
