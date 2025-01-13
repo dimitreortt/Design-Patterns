@@ -4,4 +4,5 @@
 // import './FactoryPattern/index'
 // import './CommandPattern/index'
 // import './AdapterPattern/index'
-import './FacadePattern/index'
+// import './FacadePattern/index'
+import './FlyweightPattern/index'
