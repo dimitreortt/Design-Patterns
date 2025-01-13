@@ -5,4 +5,5 @@
 // import './CommandPattern/index'
 // import './AdapterPattern/index'
 // import './FacadePattern/index'
-import './FlyweightPattern/index'
+// import './FlyweightPattern/index'
+import './TemplateMethodPattern/index'
