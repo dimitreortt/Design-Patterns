@@ -6,4 +6,6 @@
 // import './AdapterPattern/index'
 // import './FacadePattern/index'
 // import './FlyweightPattern/index'
-import './TemplateMethodPattern/index'
+// import './TemplateMethodPattern/index'
+// import './IteratorPattern/index'
+import './CompositePattern/index'
