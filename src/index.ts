@@ -9,4 +9,5 @@
 // import './TemplateMethodPattern/index'
 // import './IteratorPattern/index'
 // import './CompositePattern/index'
-import './StatePattern/index'
+// import './StatePattern/index'
+import './ProxyPattern/index'
