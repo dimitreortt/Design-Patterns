@@ -8,4 +8,5 @@
 // import './FlyweightPattern/index'
 // import './TemplateMethodPattern/index'
 // import './IteratorPattern/index'
-import './CompositePattern/index'
+// import './CompositePattern/index'
+import './StatePattern/index'
