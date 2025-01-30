@@ -10,4 +10,5 @@
 // import './IteratorPattern/index'
 // import './CompositePattern/index'
 // import './StatePattern/index'
-import './ProxyPattern/index'
+// import './ProxyPattern/index'
+import './CompoundPatterns/index'
